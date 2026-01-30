@@ -91,12 +91,6 @@ Commands:
 /fampay user@fam
 /pincode 560001
 /aadhaar 413129678885
-/stats
-
-Admin:
-/addcredit userId amount
-/premium userId
-/broadcast message`);
   }
 
   // BUTTON → PROMPT
