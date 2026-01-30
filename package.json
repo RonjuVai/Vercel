@@ -1,6 +1,4 @@
 {
-  "name": "osint-telegram-bot",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {}
+  "name": "telegram-bot",
+  "version": "1.0.0"
 }
